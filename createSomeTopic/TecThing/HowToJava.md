@@ -40,7 +40,9 @@ there is a problem ,if you just know how to be a tool.then you can just be a  to
 5,so how to java?   
 first, what other people do,i should know all the tools in the world.know the function of the tool,know how they work together.and what will happen with the help.what is the best toolchain,does the other people use the best toolchain.   
 second,know the detail of each tool.   
-third,create a project.know the other people.  
+third,create a project.know the other people.    
+ps:Bilibili,
+
 
 6,what is the best tool.  
 one,i can learn it from csdn and so on, on video.github.and the book.i just pay attention on the tool.   
@@ -48,8 +50,8 @@ two,know how the tool work.
 third,all of the work should be page.  
 
 7,the road to the people.  
-know more about how to make the product to more people.
-
+one,know more about how to make the product to more people.
+two,you should use a developer view to learn all of the product in the world .every day,there are so many products in the world and we can learn why this product can be popular,if some company is developing some product,we can pre view the future of the product ,this way can help us to make a good step to create our product.
 
 
 
