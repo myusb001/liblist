@@ -45,7 +45,7 @@ ps:Bilibili,
 
 
 6,what is the best tool.  
-one,i can learn it from csdn and so on, on video.github.and the book.i just pay attention on the tool.   
+one,i can learn it from csdn and so on, on video.github.and the book.i just pay attention on the tool.i can search it by myself.     
 two,know how the tool work.  
 third,all of the work should be page.  
 
