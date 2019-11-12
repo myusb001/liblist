@@ -28,4 +28,15 @@ Java,why that is java.BC it is the most useful tool that can deal with so many p
 
 C++/C#,just as java.
 
-python,AI development,and spider development. this is a window to the network, if you want to know something that happens in the world , it is not necessary that every things you should do ,we should name this century as  the AI century,and we should use the technology to help us deal with so many problems ,and help us to collect the message from the web. help us search so many things from the world.we can know more about the world. and i can not search by ourself. it can help us to 
+python,AI development,and spider development. this is a window to the network, if you want to know something that happens in the world , it is not necessary that every things you should do ,we should name this century as  the AI century,and we should use the technology to help us deal with so many problems ,and help us to collect the message from the web. help us search so many things from the world.we can know more about the world. and i can not search by ourself. it can help us to save more time to create the other things.if there in no in the web. or in the world.you can pay your attention on the important things, and the other things we can do it with the help the computer.that is a nice world.
+
+MATLAB，it is the useful tool that can deal with the data. if you have the data to deal with.can make it more useful in the world ,you can use it. 
+
+
+
+there is a problem ,if you just know how to be a tool.then you can just be a  tool. tool is tool. we should become the man that use the tool.we should become the tooler.not just a tool.when we communicate with other.i do not only know how to make it come true. we should know more about,why we should do like this.and if the two roles we be.then we can know more ,and we can earn more money.that the man we should be. and in the future. i can be teacher or a leader in the company to teach people to do the right things.and we can work together to create more things.i can control the key things,and the other things that i can let other people do .payment.and then i can get more. i give you a task,then you give me a product. then i give the product to other people.i get more money. i can lead the people ,tell them how to do a good thing. for the so many things.what can we do . just tell the other people what you can do.what you can do in which way.that means that you just tell me when you can give me the product ,if i want to get the things in the deadtime.what can i do to make it come true.
+
+
+
+
+
